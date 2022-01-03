@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## goodness blows no trumpet, nor desires to have it blown. —–charles lamb
 <!--
 **yanggy11x/yanggy11x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
